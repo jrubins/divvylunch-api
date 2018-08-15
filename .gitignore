@@ -1,0 +1,21 @@
+# Caches.
+.eslintcache
+
+# Computer specific files.
+.DS_Store
+.idea
+
+# Database files.
+backup.sh
+db
+restore.sh
+
+# Dependencies.
+node_modules
+
+# Environment specific files.
+dev.js
+
+# Logs
+yarn-error.log
+npm-debug.log
